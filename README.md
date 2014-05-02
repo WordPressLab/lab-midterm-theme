@@ -1,3 +1,4 @@
+
 You are responsible for making the following changes to the following things.
 
 ## Fonts and Colors
@@ -27,10 +28,11 @@ Use your searching skills for this. If you come across something you don't know 
 - This is a freebie. Create a right-hand sidebar.
 -- go to "__lab-midterm-theme/layouts__" and copy the contents of "__content-sidebar.css__" into your child theme's stylesheet.
 
-#### Sidebar
+## Sidebar
 ##### Widgets
 
 - Change the background color of .widgets
+    - Note that this means the individual widgets and not the whole sidebar
 - Change the list-style of unordered lists __within the sidebar div__. 
 	- This means you're changing the lists within the widget area but not anywhere else.
 - Change the color of links 
@@ -46,7 +48,8 @@ Use your searching skills for this. If you come across something you don't know 
 
 ### cat-links and tags-links 
 
-####(the category and tag links at the bottom of each post on the front page)
+####(the category and tag links at the bottom of each post on your blog page)
+#### Please Note: You must have a blog page!
 
 - Change the font color
 - Change the background-color
